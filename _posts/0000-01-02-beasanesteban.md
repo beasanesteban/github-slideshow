@@ -2,5 +2,5 @@
  diseño : título de la diapositiva
  : "¡ Bienvenido a nuestra segunda diapositiva! "
 ---
-¡macarena
+¡cambios
 ubhsa la flecha izquierda para volv
